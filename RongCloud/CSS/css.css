@@ -1,0 +1,110 @@
+/*界面背景颜色*/
+/*body{
+	background-color: blue
+}*/
+/*怎么 autolayout？ 这里暂且写死吧*/
+.topStyle{
+	top: 0px;
+	height: 400px;
+	background-color: blue;
+}
+.bottomStyle{
+	top: 400px;
+	height: 400px;
+	background-color: black;
+}
+.layout{
+	font-size: 3;
+	color: white;
+	position: absolute;
+		top: 20px;
+		left: 300px;
+}
+.layout1{
+	font-size: 3;
+	color: white;
+	position: absolute;
+		top: 20px;
+		left: 350px;
+}
+.layout2{
+	font-size: 3;
+	color: white;
+	position: absolute;
+		top: 20px;
+		left: 400px;
+}
+.layout3{
+	font-size: 3;
+	color: white;
+	position: absolute;
+		top: 20px;
+		left: 450px;
+}
+.layout4{
+	font-size: 3;
+	color: white;
+	position: absolute;
+		top: 20px;
+		left: 540px;
+}
+.layout5{
+	font-size: 3;
+	color: white;
+	position: absolute;
+		top: 20px;
+		left: 590px;
+}
+.layout6{
+	/*font-size: 3;*/
+	color: white;
+	position: absolute;
+		top: 110px;
+		left: 300px;
+}
+.layout7{
+	color: white;
+	position: absolute;
+		top: 180px;
+		left: 300px;
+		right: 300px;
+}
+.layout8{
+	width: 280px;
+	position: absolute;
+		top: 180px;
+		right: 30px;
+}
+.login{
+	width:40px;
+	height:20px;
+	border:1px;
+	/*border-color: white;*/
+	/*color: white;*/
+	/*background-color: blue;*/
+	font-size: 3;
+	position: absolute;
+		top: 20px;
+		left:  1000px;
+}
+.register{
+	width:40px;
+	height:20px;
+	border:1px;
+	/*border-color: white;*/
+	/*color: white;*/
+	/*background-color: blue;*/
+	font-size: 3;
+	position: absolute;
+		top: 20px;
+		left:  1050px;
+}
+h4{
+	text-align: center;
+	color: white;
+}
+table{
+	color: white;
+	text-align: center;
+	
+}
